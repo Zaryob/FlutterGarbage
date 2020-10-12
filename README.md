@@ -12,4 +12,5 @@ Not: Basit uygulamalar için sadece main.dart dosyaları olacak. herhangi bir ap
 * [HellaWorld](https://github.com/Zaryob/FlutterGarbage/tree/master/hella_world): Birazcık karmaşıklaştırılmış bir helloworld uygulaması.
 * [ScaffoldApp](https://github.com/Zaryob/FlutterGarbage/tree/master/scaffold_app): Scaffold adı verilen yandan kaymalı uygulama çubuklu zamazingo uygulaması.
 * [MoreWidgets](https://github.com/Zaryob/FlutterGarbage/tree/master/more_widgets): Biraz genişletilmiş bir scaffold uygulama örneği.
-* [ImageShow](https://github.com/Zaryob/FlutterGarbage/tree/master/more_widgets): Kendi fotoğrafımı koymadan olmazdı.
+* [ImageShow](https://github.com/Zaryob/FlutterGarbage/tree/master/image_show): Kendi fotoğrafımı koymadan olmazdı.
+* [FunctionExample](https://github.com/Zaryob/FlutterGarbage/tree/master/function_example): dart çalışmaya devam
