@@ -18,3 +18,7 @@ Not: Basit uygulamalar için sadece main.dart dosyaları olacak. herhangi bir ap
 * [FloatingAction](https://github.com/Zaryob/FlutterGarbage/tree/master/floating_action): floating_action butonu örneği.
 * [IncrementMyself](https://github.com/Zaryob/FlutterGarbage/tree/master/increment_myself): flutterin incrementation özelliklerini kullanan bir uygulama örneği.
 * [WidgetSeries](https://github.com/Zaryob/FlutterGarbage/tree/master/widget_series): Row ve Column sınıflarını kullanan birden fazla widgetin seriler içerisinde harmanlandığı bir örnek.
+* [PaddingDifference](https://github.com/Zaryob/FlutterGarbage/tree/master/padding_difference): Padding parametrelerinin uygulama üzerine olan etkisini gösteren bir deneme. iki adet dart dosyası var. ayrı ayrı main olarak sync edip deneyebilirsiniz.
+* [ContainerExtendent](https://github.com/Zaryob/FlutterGarbage/tree/master/container_extendent): Extendent Container example. Birden fazla row column ile yerleşim, beraber kullanım örneği oluşturuldu.
+* [OrientationExample](https://github.com/Zaryob/FlutterGarbage/tree/master/orientation_example): Orientation ile değişen Row üretimi örneği.
+* [InputStuff](https://github.com/Zaryob/FlutterGarbage/tree/master/input_stuff): Çeşitli input widgetlerini içeren güzel bir çorbadır. dropdown textfield filan her bok var.
