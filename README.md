@@ -24,3 +24,4 @@ Not: Basit uygulamalar için sadece main.dart dosyaları olacak. herhangi bir ap
 * [InputStuff](https://github.com/Zaryob/FlutterGarbage/tree/master/input_stuff): Çeşitli input widgetlerini içeren güzel bir çorbadır. dropdown textfield filan her bok var.
 * [Pagination](https://github.com/Zaryob/FlutterGarbage/tree/master/pagination): Sayfalandırma için bir uygulama örneği.
 * [Particulating](https://github.com/Zaryob/FlutterGarbage/tree/master/particulating): Sayfalandırma örneğini classlara ayırdım. laf ola torba dola.
+* [AnimationApp](https://github.com/Zaryob/FlutterGarbage/tree/master/animation_app): Kız tavlama uygulaması :joy:
