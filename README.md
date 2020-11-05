@@ -26,3 +26,4 @@ Not: Basit uygulamalar için sadece main.dart dosyaları olacak. herhangi bir ap
 * [Particulating](https://github.com/Zaryob/FlutterGarbage/tree/master/particulating): Sayfalandırma örneğini classlara ayırdım. laf ola torba dola.
 * [AnimationApp](https://github.com/Zaryob/FlutterGarbage/tree/master/animation_app): Kız tavlama uygulaması :joy:
 * [Statefulless](https://github.com/Zaryob/FlutterGarbage/tree/master/statefulless): Stateful ve Stateless widget beraber kullanılır mı diye soranlar için
+* [WidgetTypeList](https://github.com/Zaryob/FlutterGarbage/tree/master/widgettypelist): <Widget> yerine widgetin tipini yazabileceğimizin kanıtıdır.
