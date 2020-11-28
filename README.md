@@ -29,3 +29,4 @@ Not: Basit uygulamalar için sadece main.dart dosyaları olacak. herhangi bir ap
 * [WidgetTypeList](https://github.com/Zaryob/FlutterGarbage/tree/master/widgettypelist): <Widget> yerine widgetin tipini yazabileceğimizin kanıtıdır.
 * [DrawerSized](https://github.com/Zaryob/FlutterGarbage/tree/master/drawersized): Drawer widgetini kullanırken boyut ayarlayamama sorunu vardı. bunu çözmek için ortaya atılan bir basit örnek.
 * [SearchPage](https://github.com/Zaryob/FlutterGarbage/tree/master/search_page): Basit String bazlı bir arama sayfası.
+* [QuizApp](https://github.com/Zaryob/FlutterGarbage/tree/master/quiz_app): Basit bir quiz uygulaması. Yapana kadar anam ağladı. Furkan Karcıoğlu sayesinde tamamlanabildi.
