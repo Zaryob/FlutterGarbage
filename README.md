@@ -28,3 +28,4 @@ Not: Basit uygulamalar için sadece main.dart dosyaları olacak. herhangi bir ap
 * [Statefulless](https://github.com/Zaryob/FlutterGarbage/tree/master/statefulless): Stateful ve Stateless widget beraber kullanılır mı diye soranlar için
 * [WidgetTypeList](https://github.com/Zaryob/FlutterGarbage/tree/master/widgettypelist): <Widget> yerine widgetin tipini yazabileceğimizin kanıtıdır.
 * [DrawerSized](https://github.com/Zaryob/FlutterGarbage/tree/master/drawersized): Drawer widgetini kullanırken boyut ayarlayamama sorunu vardı. bunu çözmek için ortaya atılan bir basit örnek.
+* [SearchPage](https://github.com/Zaryob/FlutterGarbage/tree/master/search_page): Basit String bazlı bir arama sayfası.
