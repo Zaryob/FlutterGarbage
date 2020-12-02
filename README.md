@@ -30,3 +30,5 @@ Not: Basit uygulamalar için sadece main.dart dosyaları olacak. herhangi bir ap
 * [DrawerSized](https://github.com/Zaryob/FlutterGarbage/tree/master/drawersized): Drawer widgetini kullanırken boyut ayarlayamama sorunu vardı. bunu çözmek için ortaya atılan bir basit örnek.
 * [SearchPage](https://github.com/Zaryob/FlutterGarbage/tree/master/search_page): Basit String bazlı bir arama sayfası.
 * [QuizApp](https://github.com/Zaryob/FlutterGarbage/tree/master/quiz_app): Basit bir quiz uygulaması. Yapana kadar anam ağladı. Furkan Karcıoğlu sayesinde tamamlanabildi.
+* [SharedPreferences](https://github.com/Zaryob/FlutterGarbage/tree/master/shared_preferences): Basit bir shared preferences örneği. Çalıştırmak için shared_preferences'i eklemeyi unutmayın.
+
