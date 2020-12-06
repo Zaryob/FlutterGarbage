@@ -31,4 +31,8 @@ Not: Basit uygulamalar için sadece main.dart dosyaları olacak. herhangi bir ap
 * [SearchPage](https://github.com/Zaryob/FlutterGarbage/tree/master/search_page): Basit String bazlı bir arama sayfası.
 * [QuizApp](https://github.com/Zaryob/FlutterGarbage/tree/master/quiz_app): Basit bir quiz uygulaması. Yapana kadar anam ağladı. Furkan Karcıoğlu sayesinde tamamlanabildi.
 * [SharedPreferences](https://github.com/Zaryob/FlutterGarbage/tree/master/shared_preferences): Basit bir shared preferences örneği. Çalıştırmak için shared_preferences'i eklemeyi unutmayın.
+* [AlertDialog](https://github.com/Zaryob/FlutterGarbage/tree/master/alert_dialog): Scaffold içinde AlertDialog yapma işi.
+* [FirebaseExample](https://github.com/Zaryob/FlutterGarbage/tree/master/firebase_example): Firebase tımbırtısı için örnek kod.
+* [SearchExample](https://github.com/Zaryob/FlutterGarbage/tree/master/search_example): Listeden arama yapan uygulama.
+* [LoginPage](https://github.com/Zaryob/FlutterGarbage/tree/master/login_page): Login sayfası uygulaması.
 
