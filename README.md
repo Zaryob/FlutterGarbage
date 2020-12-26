@@ -36,3 +36,4 @@ Not: Basit uygulamalar için sadece main.dart dosyaları olacak. herhangi bir ap
 * [SearchExample](https://github.com/Zaryob/FlutterGarbage/tree/master/search_example): Listeden arama yapan uygulama.
 * [LoginPage](https://github.com/Zaryob/FlutterGarbage/tree/master/login_page): Login sayfası uygulaması.
 * [MidTerm](https://github.com/Zaryob/FlutterGarbage/tree/master/midterm): AGU COMP205 2020 birinci dönem midterm cevapları (Yedek olması için.)
+* [NotificationExample](https://github.com/Zaryob/FlutterGarbage/tree/master/notification_example): Notification özelliği için örnek kod.
