@@ -37,3 +37,10 @@ Not: Basit uygulamalar için sadece main.dart dosyaları olacak. herhangi bir ap
 * [LoginPage](https://github.com/Zaryob/FlutterGarbage/tree/master/login_page): Login sayfası uygulaması.
 * [MidTerm](https://github.com/Zaryob/FlutterGarbage/tree/master/midterm): AGU COMP205 2020 birinci dönem midterm cevapları (Yedek olması için.)
 * [NotificationExample](https://github.com/Zaryob/FlutterGarbage/tree/master/notification_example): Notification özelliği için örnek kod.
+* [FCMPushNotification](https://github.com/Zaryob/FlutterGarbage/tree/master/fcm_push_notification): FCM yani Firebase Cloud Messaging ile bildirim göndermeyi sağlayan uygulama örneği.
+* [Isolates](https://github.com/Zaryob/FlutterGarbage/tree/master/isolates): Isolates dart dilinin en esnek özelliklerinden birisi. Bunu flutter ile birleştiren bir uygulama örneği.
+* [IsolatesFetch](https://github.com/Zaryob/FlutterGarbage/tree/master/isolates_fetch): Isolates ile futurebuilder kullanmadan json getirmeyi sağlayan uygulama örneği.
+* [DatabaseExample](https://github.com/Zaryob/FlutterGarbage/tree/master/database_example): SQL Flutter ile bir uygulama örneği.
+* [FileRW](https://github.com/Zaryob/FlutterGarbage/tree/master/file_rw): Flutter ile dosya okuma ve yazma uygulaması örneği
+* [BackgroundWorker](https://github.com/Zaryob/FlutterGarbage/tree/master/background_worker): Flutter ile arka plan iş parçacığı örneği.
+* [Final](https://github.com/Zaryob/FlutterGarbage/tree/master/final): Mobil Applications dersinin final sonuçları açıklanması ile beraber hepsini ekledim.
