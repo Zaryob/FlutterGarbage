@@ -44,4 +44,5 @@ Not: Basit uygulamalar için sadece main.dart dosyaları olacak. herhangi bir ap
 * [FileRW](https://github.com/Zaryob/FlutterGarbage/tree/master/file_rw): Flutter ile dosya okuma ve yazma uygulaması örneği
 * [BackgroundWorker](https://github.com/Zaryob/FlutterGarbage/tree/master/background_worker): Flutter ile arka plan iş parçacığı örneği.
 * [Final](https://github.com/Zaryob/FlutterGarbage/tree/master/final): Mobil Applications dersinin final sonuçları açıklanması ile beraber hepsini ekledim.
-* [NoteApp](https://github.com/Zaryob/FlutterGarbage/tree/master/noteapp): Basit bir not tutma uygulaması.
+* [NoteApp](https://github.com/Zaryob/FlutterGarbage/tree/master/note_app): Basit bir not tutma uygulaması.
+* [CameraTest](https://github.com/Zaryob/FlutterGarbage/tree/master/camera_test): Basit bir kamera uygulaması.
