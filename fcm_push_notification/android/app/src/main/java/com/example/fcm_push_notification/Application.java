@@ -7,7 +7,7 @@ import io.flutter.plugins.GeneratedPluginRegistrant;
 import io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingBackgroundService;
 import io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingPlugin;
 
-public class PuttyApplication extends FlutterApplication implements PluginRegistrantCallback {
+public class Application extends FlutterApplication implements PluginRegistrantCallback {
     @Override
     public void onCreate() {
         super.onCreate();
