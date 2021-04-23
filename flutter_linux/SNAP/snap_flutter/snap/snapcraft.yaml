@@ -1,0 +1,31 @@
+name: snap-flutter
+version: 0.1.0
+summary: Snap Flutter
+description: This is an example app for flutter snap desktop
+
+
+confinement: strict
+base: core18
+grade: stable
+
+slots:
+  dbus-snap-flutter: 
+    interface: dbus
+    bus: session
+    name: com.example.snap_flutter
+    
+apps:
+  snap-flutter:
+    command: snap-flutter
+    extensions: [flutter-master]
+    plugs:
+    - network
+    slots:
+      - dbus-snap-flutter
+      
+parts:
+  snap-flutter:
+    source: .
+    plugin: flutter
+    flutter-target: lib/main.dart 
+

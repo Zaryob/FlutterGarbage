@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Snap Flutter
+Comment=This is an example app for how to use snap to packing flutter
+Exec=snap_flutter
+Icon=${SNAP}/gui/snap_flutter.png 
+Terminal=false
+Type=Application
+Categories=Development;

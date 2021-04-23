@@ -46,3 +46,5 @@ Not: Basit uygulamalar için sadece main.dart dosyaları olacak. herhangi bir ap
 * [Final](https://github.com/Zaryob/FlutterGarbage/tree/master/final): Mobil Applications dersinin final sonuçları açıklanması ile beraber hepsini ekledim.
 * [NoteApp](https://github.com/Zaryob/FlutterGarbage/tree/master/note_app): Basit bir not tutma uygulaması.
 * [CameraTest](https://github.com/Zaryob/FlutterGarbage/tree/master/camera_test): Basit bir kamera uygulaması.
+* [Flutter Linux](https://github.com/Zaryob/FlutterGarbage/tree/master/flutter_linux): Linux için uygulama yayınlama rehberinin kodları. AppImage ve Snap Paketlerinin nasıl oluştuğunu anlatmak için kullandım.
+

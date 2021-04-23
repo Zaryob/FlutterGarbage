@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Name=Flutter AppImage
+Exec=appimage_flutter %u
+Icon=appimage_flutter
+Categories=Utility;
