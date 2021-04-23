@@ -16,7 +16,7 @@ slots:
     
 apps:
   snap-flutter:
-    command: snap-flutter
+    command: snap_flutter
     extensions: [flutter-master]
     plugs:
     - network
