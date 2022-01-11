@@ -1,5 +1,11 @@
-# fluttergarbage
+# FlutterGarbage 
+[en]
+It is a repository of garbage codes for purely experimental and learning purposes.
+2020-2021 Spring Term COMP205 Course Files
+
+[tr]
 Tamamen deneysel ve öğrenme amaçlı çöp kodlardan mürekkep bir depodur.
+2020-2021 Bahar Dönemi COMP205 Kurs Dosyaları
 
 ```
 Not: Basit uygulamalar için sadece main.dart dosyaları olacak. herhangi bir app projesi oluşturup içerisine atabilirsiniz.
